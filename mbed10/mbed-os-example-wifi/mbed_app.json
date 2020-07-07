@@ -1,0 +1,17 @@
+{
+    "config": {
+        "wifi-ssid": {
+            "help": "Jonathan_Macbook_Pro",
+            "value": "\"SSID\""
+        },
+        "wifi-password": {
+            "help": "77777777",
+            "value": "\"PASSWORD\""
+        }
+    },
+    "target_overrides": {
+        "*": {
+            "platform.stdio-convert-newlines": true
+        }
+    }
+}
